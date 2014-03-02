@@ -8,7 +8,7 @@ var client = new irc.Client('irc.twitch.tv', 'krazyjakee', {
     autoConnect: false,
     showErrors: true,
     port: 6667,
-    password: 'oauth:ink7i3pm417c8k8xzm94rzk0ifutweq'
+    password: ''
 });
 
 console.log('Connecting');
